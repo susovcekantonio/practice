@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Armstrong/Armstrong.iml" filepath="$PROJECT_DIR$/Armstrong/Armstrong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OIB/OIB.iml" filepath="$PROJECT_DIR$/OIB/OIB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/novcanice/novcanice.iml" filepath="$PROJECT_DIR$/novcanice/novcanice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vjezba 3.2/vjezba 3.2.iml" filepath="$PROJECT_DIR$/vjezba 3.2/vjezba 3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vjezba3.1/vjezba3.1.iml" filepath="$PROJECT_DIR$/vjezba3.1/vjezba3.1.iml" />
+    </modules>
+  </component>
+</project>
