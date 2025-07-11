@@ -1,0 +1,4 @@
+Automobil|ZG1234AB|Opel|2010|6
+Motocikl|ST5678CD|Yamaha|2018|Sport
+Automobil|ZG1234AB|Opel|2030|4
+Motocikl|ST5638CD|Kawasaki|2008|Sport

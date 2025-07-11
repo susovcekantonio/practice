@@ -1,0 +1,1 @@
+Naziv je Krug ,opseg je 62.83185307179586 ,povrsina je 314.1592653589793

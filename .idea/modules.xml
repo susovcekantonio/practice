@@ -3,11 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Armstrong/Armstrong.iml" filepath="$PROJECT_DIR$/Armstrong/Armstrong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOpractice/IOpractice.iml" filepath="$PROJECT_DIR$/IOpractice/IOpractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/OIB/OIB.iml" filepath="$PROJECT_DIR$/OIB/OIB.iml" />
       <module fileurl="file://$PROJECT_DIR$/novcanice/novcanice.iml" filepath="$PROJECT_DIR$/novcanice/novcanice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parcijalnivjezba/parcijalnivjezba.iml" filepath="$PROJECT_DIR$/parcijalnivjezba/parcijalnivjezba.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice.iml" filepath="$PROJECT_DIR$/practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/vjezba 3.2/vjezba 3.2.iml" filepath="$PROJECT_DIR$/vjezba 3.2/vjezba 3.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/vjezba3.1/vjezba3.1.iml" filepath="$PROJECT_DIR$/vjezba3.1/vjezba3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vjezba4/vjezba4.iml" filepath="$PROJECT_DIR$/vjezba4/vjezba4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vjezba5/vjezba5.iml" filepath="$PROJECT_DIR$/vjezba5/vjezba5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vjezba6/vjezba6.iml" filepath="$PROJECT_DIR$/vjezba6/vjezba6.iml" />
     </modules>
   </component>
 </project>
