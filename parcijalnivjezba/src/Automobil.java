@@ -3,13 +3,9 @@ public class Automobil extends Vozilo {
 
     public Automobil(String registarskiBroj, String marka, int godinaProizvodnje, int brojVrata) throws NeispravniPodaciException {
         super(registarskiBroj, marka, godinaProizvodnje);
-        try {
             if (brojVrata < 1) {
                 throw new NeispravniPodaciException("Broj vrata ne može biti manji od 1");
             }
-        }catch (NeispravniPodaciException e){
-            System.out.println(e.getMessage());
-        }
         this.brojVrata = brojVrata;
     }
 
