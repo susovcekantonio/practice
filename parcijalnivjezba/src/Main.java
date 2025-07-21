@@ -4,11 +4,11 @@ import java.util.Scanner;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws NeispravniPodaciException{
         EvidencijaVozila evidencija = new EvidencijaVozila();
 
         try {
-            evidencija.dodajVozilo(new Automobil("ZG1234AB", "Opel", 2010, 6));
+            evidencija.dodajVozilo(new Automobil("ZG1234AB", "Opel", 2010, 0));
             evidencija.dodajVozilo(new Motocikl("ST5678CD", "Yamaha", 2018, "Sport"));
             evidencija.dodajVozilo(new Automobil("ZG1234AB", "Opel", 2030, 4));
             evidencija.dodajVozilo(new Motocikl("ST5638CD", "Kawasaki", 2008, "Sport"));
